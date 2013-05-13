@@ -31,7 +31,7 @@ void inicjalizacja()
 				FI[i][j] = pow(x, 2) - pow(y, 2);
 			else
 				FI[i][j] = 0;
-			++j;
+			j++; //postinkrementacja
 		}
 		++i;
 	}
