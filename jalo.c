@@ -82,8 +82,9 @@ void metoda(const int k, const string &filename)
 	}
 	myfile.close();	
 }
-
-void licz(const int k)
+tu dodaje jakas funkcjonalnosc
+i zmienam licz na licznik
+void licznik(const int k)
 {
 	const int k_tmp = k / 2;
 	for(int i=k_tmp; i<size-k_tmp; i+=k_tmp)
