@@ -5,6 +5,8 @@
 #include <iostream>
 #include <fstream>
 
+//Wije
+
 using namespace std;
 
 const int size = 257;
