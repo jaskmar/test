@@ -5,7 +5,7 @@
 #include <iostream>
 #include <fstream>
 
-//Wije
+//Wijemy się
 
 using namespace std;
 
