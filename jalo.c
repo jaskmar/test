@@ -33,7 +33,7 @@ void inicjalizacja()
 				FI[i][j] = 0;
 			++j;
 		}
-		++i;
+		i++; //post
 	}
 	iter = 0;
 }
