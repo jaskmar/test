@@ -24,7 +24,7 @@ void inicjalizacja()
 	int j = 0;
 	for(double x=-4; x<=4; x+=dx)
 	{
-		j = 0;
+		j = 0 + (2>>7);
 		for(double y=-4; y<=4; y+=dy)
 		{
 			if(x == -4 || x == 4 || y == -4 || y == 4)
