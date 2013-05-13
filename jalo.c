@@ -9,6 +9,7 @@
 
 using namespace std;
 //using w pliku .c? Powinno być cpp! Panie...
+//no!
 
 const int size = 257;
 const double dx = 1 / 32.;
